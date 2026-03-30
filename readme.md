@@ -45,7 +45,7 @@
 ## 🐍 ACTIVITY STREAM
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhavesh189/bhavesh189/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bhavesh189/Bhavesh189/output/github-snake.svg" />
 </div>
 
 ---
